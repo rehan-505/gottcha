@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "43311408451",
+    "project_id": "gottcha-48670",
+    "storage_bucket": "gottcha-48670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43311408451:android:e820518e6ddb9ed22c7bf6",
+        "android_client_info": {
+          "package_name": "com.notedmedia.gottcha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43311408451-0d9gpe1d0075mst223f5srith7500jpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notedmedia.gottcha",
+            "certificate_hash": "bae7bf3de82963c52e7012fcdb5e14eae8f5aa47"
+          }
+        },
+        {
+          "client_id": "43311408451-d1fuasdqbcp7o6nps5a2lo1ec2avl6ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6v-ocsot1nkqlGAgmCn1K4rQFK-g4YDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43311408451-d1fuasdqbcp7o6nps5a2lo1ec2avl6ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
